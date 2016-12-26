@@ -15,7 +15,7 @@ while i < max  do
 		winner = entry_02[:name]
 	when 3
 		winner = entry_03[:name]
-	when 4
+	when 4 
 		winner = entry_04[:name]
 	else
 		winner = "No winner this time!"
